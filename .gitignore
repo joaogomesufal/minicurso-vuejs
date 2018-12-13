@@ -1,0 +1,6 @@
+pizzaria/node_modules
+pizzaria/dist
+pizzaria/.env.local
+pizzaria/.env.*.local
+
+fakeapi/node_modules

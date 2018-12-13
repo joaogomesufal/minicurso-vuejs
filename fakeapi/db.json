@@ -1,0 +1,27 @@
+{
+  "pizzas": [
+    {
+      "nome": "Calabresa",
+      "ingredientes": [
+        "Calabresa",
+        "Cebola",
+        "Tomate"
+      ],
+      "precos": [
+        {
+          "tamanho": "Grande",
+          "valor": "24"
+        },
+        {
+          "tamanho": "Média",
+          "valor": "18"
+        },
+        {
+          "tamanho": "Pequena",
+          "valor": "14"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
